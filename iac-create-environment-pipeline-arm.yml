@@ -2,7 +2,7 @@ pr: none
 trigger: none
 
 variables:
-- group: mlops-celsia-vg
+- group: devops-idata-vg
 
 stages:
 - stage: 'Dev'
